@@ -31,3 +31,9 @@ cd Notes-App-Frontend
 ## 4. **Application Screens**
 
    Follow the routes below to access various application screens:
+     - **Public Facing Page**:  
+     Accessible without login. Displays app information and a call-to-action button.  
+     ```text
+     Route: /login
+     ```
+     ![image](https://github.com/user-attachments/assets/d110a5e6-b815-4553-9596-49c80e1a5dbf)
