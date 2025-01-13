@@ -13,5 +13,5 @@ A full-stack Notes Application built using the MERN stack (MongoDB, Express.js, 
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/notes-application.git](https://github.com/sum1275/Notes-App-Frontend.git)
-cd notes-application
+git clone https://github.com/sum1275/Notes-App-Frontend.git
+cd Notes-App-Frontend
