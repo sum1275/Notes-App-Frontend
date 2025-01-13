@@ -15,3 +15,19 @@ A full-stack Notes Application built using the MERN stack (MongoDB, Express.js, 
 ```bash
 git clone https://github.com/sum1275/Notes-App-Frontend.git
 cd Notes-App-Frontend
+2. **Setup and Run**:
+   To set up and run the Unicarta project, follow these commands:
+
+   ```bash
+   npm install
+   npm run dev
+   ```
+3. **Environment Variables**:
+
+   Add the following to your `.env` file:
+
+   ```env
+   VITE_API_BASE_URL=http://localhost:3000/api
+## 4. **Application Screens**
+
+   Follow the routes below to access various application screens:
