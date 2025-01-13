@@ -43,7 +43,7 @@ cd Notes-App-Frontend
 ### Signup Page
 - **Route**: `/signup`
 
-![SignUp Page]!(https://github.com/user-attachments/assets/99c34b95-66cb-4f0f-9544-11f253aaa9fd)
+![SignUp Page](https://github.com/user-attachments/assets/99c34b95-66cb-4f0f-9544-11f253aaa9fd)
 
 
 ### Home Page
