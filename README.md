@@ -15,7 +15,8 @@ A full-stack Notes Application built using the MERN stack (MongoDB, Express.js, 
 ```bash
 git clone https://github.com/sum1275/Notes-App-Frontend.git
 cd Notes-App-Frontend
-2. **Setup and Run**:
+ ```
+2.**Setup and Run**:
    To set up and run the Unicarta project, follow these commands:
 
    ```bash
@@ -30,16 +31,17 @@ cd Notes-App-Frontend
    VITE_API_BASE_URL=http://localhost:3000/api
 ## 4. **Application Screens**
 
-   Follow the routes below to access various application screens:
-     - **Public Facing Page**:  
-     Login Page 
-     ```text
-     Route: /login
-     ```
-     ![image](https://github.com/user-attachments/assets/d110a5e6-b815-4553-9596-49c80e1a5dbf)
-      Home Page
-      ```text
-     Route: /
-     ```
-     ![image](https://github.com/user-attachments/assets/a020290f-7486-4ac3-bd68-5f81ae301965)
+   
+ ## Pages
+
+### Login Page
+- **Route**: `/login`
+
+![Login Page](https://github.com/user-attachments/assets/d110a5e6-b815-4553-9596-49c80e1a5dbf)
+
+### Home Page
+- **Route**: `/`
+
+![Home Page](https://github.com/user-attachments/assets/a020290f-7486-4ac3-bd68-5f81ae301965)
+
 
