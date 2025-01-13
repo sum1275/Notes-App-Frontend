@@ -8,6 +8,7 @@ A full-stack Notes Application built using the MERN stack (MongoDB, Express.js, 
 - **User Authentication**: JWT-based authentication with secure password hashing.
 - **Responsive UI**: Built with React.js, React Router, and Tailwind CSS.
 - **Security**: Routes secured with JWT middleware and Helmet.js for HTTP headers.
+- **Pin**:Pin the Important notes
 
 ## Setup Instructions
 
@@ -39,9 +40,20 @@ cd Notes-App-Frontend
 
 ![Login Page](https://github.com/user-attachments/assets/d110a5e6-b815-4553-9596-49c80e1a5dbf)
 
+### Signup Page
+- **Route**: `/signup`
+
+![SignUp Page]!(https://github.com/user-attachments/assets/99c34b95-66cb-4f0f-9544-11f253aaa9fd)
+
+
 ### Home Page
 - **Route**: `/`
 
 ![Home Page](https://github.com/user-attachments/assets/a020290f-7486-4ac3-bd68-5f81ae301965)
+
+### Profile Page
+- **Route**: `/profile`
+![Profile Page](https://github.com/user-attachments/assets/288c8a17-cd1e-4505-b749-ccf9df95b490)
+
 
 
